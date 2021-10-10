@@ -5,7 +5,7 @@ A tool that writes another file's data bytes into image data bytes
 - JPG
 ## Requirements
 - Python3.*
-
+- Linux kernel
 ## Usage
 - clone repositories
 - chmod +x setup.sh
